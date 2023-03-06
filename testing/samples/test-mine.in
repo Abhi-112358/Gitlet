@@ -1,0 +1,16 @@
+#Init
+> init
+<<<
++ wug.txt notwug.txt
+#Add
+> add wug.txt
+<<<
+#Commit
+> commit "added notwug"
+<<<
++ wug.txt wug.txt
+# Must change
+> checkout -- wug.txt
+<<<
+= wug.txt notwug.txt
+
