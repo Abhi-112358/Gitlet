@@ -2,7 +2,7 @@
 
 Lite version of fully-functional version-control system implemented in Java 17.
 
-Source Code/Skeleton Code: UC Berkeley's CS61B: Data Structures  https://sp21.datastructur.es/materials/proj/proj2/proj2
+Source Code/Skeleton Code: UC Berkeley's CS61B: Data Structures  https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj3/index.html
 
 To Run:
 1. Clone repository
