@@ -25,7 +25,9 @@ To Run:
    status: java gitlet.Main status
    
    checkout: java gitlet.Main checkout -- [file name]
+   
              java gitlet.Main checkout [commit id] -- [file name]
+             
              java gitlet.Main checkout [branch name]
              
    branch: java gitlet.Main branch [branch name]
